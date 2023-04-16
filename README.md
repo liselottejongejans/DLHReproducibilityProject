@@ -25,5 +25,5 @@ GenoML suggests working on linux or mac for the best results.
 ## Orientation 
 - The `ReproducibilityStudy.ipynb` file contains our code for the reproducibility study. This is still work in progress as we await access to tier 2 data. 
 - The `SummaryofReproducibilityStudy.ipynb` file will summarize our reproducibility study when our project is finished. Hence, this file only consists of a template, but does not contain any content yet.
-- The `DataModels.ipynb` file contains details of the models of the original research paper.
+- The `DataModels.ipynb` file contains details of the models of the original research paper by reading in the joblib files of the 49 models contained in the repository of the researchers. Considering we do not yet have access to the tier 2 data, it was not possible to reproduce the research paper. However, reading in these joblib files gave us some insights. 
 - The `outputs` folder contains the output files after running the GenoML code. This is empty, as our data and results cannot be published publicly, however, to prevent and IO failure when running the code after cloning, the folder is added to the repository.
