@@ -17,10 +17,13 @@ The goal of our study is to reproduce the research, and test whether the claims 
 
 
 ## Requirements
-In order to use GenoML, you will need to `pip install genoml2`, and have a Python version of 3.5 or higher. Furthermore 'R' needs to be installed.
+In order to use GenoML, you will need to `pip install genoml2` or `git clone https://github.com/GenoML/genoml2.git`. Furthermore a Python version of 3.5 or higher is required and 'R' needs to be installed. Moreover, the requirements of GenoML (as listed in their requirements.txt) need to be installed, which can be done in a virtual environment. In order to check whether the installation of GenoML has worked, their website provided several example files and code that can be run. These examples can be run from the command line.
+
+GenoML suggests working on linux or mac for the best results.
 
 
 ## Orientation 
 - The `ReproducibilityStudy.ipynb` file contains our code for the reproducibility study. This is still work in progress as we await access to tier 2 data. 
 - The `SummaryofReproducibilityStudy.ipynb` file will summarize our reproducibility study when our project is finished. Hence, this file only consists of a template, but does not contain any content yet.
+- The `DataModels.ipynb` file contains details of the models of the original research paper.
 - The `outputs` folder contains the output files after running the GenoML code. This is empty, as our data and results cannot be published publicly, however, to prevent and IO failure when running the code after cloning, the folder is added to the repository.
