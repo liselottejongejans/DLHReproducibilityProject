@@ -13,7 +13,7 @@ The goal of our study is to reproduce the research, and test whether the claims 
 - [GenoML short paper](http://arxiv.org/abs/2103.03221v1)
     - [GenoML website](https://genoml.com/)
     - [GenoML repository](https://github.com/GenoML/genoml2)
-- [AMP PD]([http://arxiv.org/abs/2103.03221v1](https://amp-pd.org/))
+- [AMP PD](https://amp-pd.org/)
 
 
 ## Requirements
