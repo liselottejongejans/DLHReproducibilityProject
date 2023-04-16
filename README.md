@@ -3,7 +3,7 @@
 ## Summary
 Early and accurate detection of Parkinson's disease (PD), before an individual suffers from any symptoms, is essential for effective intervention. The researchers aim at combining machine learning and multi-modal data, to develop better predictive models, and thus contribute to early and correct diagnosis and identification of (potential) high-risk individuals. In addition, the goal of the researchers is to build models based on remotely attainable data, and do not require additional clinic visits to a specialist.
 
-The researchers of the paper `Multi-modality machine learning predicting Parkinson’s disease`
+The researchers of the paper [Multi-modality machine learning predicting Parkinson’s disease](https://www.nature.com/articles/s41531-022-00288-w#data-availability)
 
 ## Requirements
 
